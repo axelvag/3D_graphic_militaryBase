@@ -13,7 +13,7 @@ $ git clone https://github.com/axelvag/3D_graphic_militaryBase 3D_graphic_milita
   
 - Open with Code Blocks the WORKSPACE file gKit2light
 
-- Run with the green arrow in the top of the nav bar
+- Run with the green arrow in the top of the nav bar (below "Debug")
 
 ![codeblock](image/codeblocks.png)
   
