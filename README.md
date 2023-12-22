@@ -34,12 +34,12 @@
 
 # Starting
 
-- Install CodeBlocks (information at the bottom of this page)
-
 - Clone this repo
 ```bash
 $ git clone https://github.com/axelvag/3D_graphic_militaryBase 3D_graphic_militaryBase
 ```
+
+- Install CodeBlocks (information at the bottom of this page)
 
 - Enter in 3D_graphic_militaryBase/gkit2light/build
   
