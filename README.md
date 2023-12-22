@@ -7,10 +7,10 @@
 # Play
 
 - move:
-  - Move the camera: arrow up or down
-  - Rotate: mouse + left button
-  - Zoom: mouse vertical movement + right button
-  - Move the Sun: Ctrl + arrow up or down
+  - Move the camera: arrow up ⬆️​ or down ​⬇️​
+  - Rotate: mouse + left button ​🖱️​
+  - Zoom: mouse vertical movement + right button ​🖱️​
+  - Move the Sun: Ctrl + arrow up ⬆️​ or down ​⬇️​
 
 - move more information:
   - rotates around the center by left clicking and moving the mouse
