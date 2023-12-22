@@ -1,19 +1,8 @@
 # 3D_graphic_militaryBase
 
-# Starting
-
-- Install CodeBlocks
-
-- Clone this repo
-```bash
-$ git clone https://github.com/axelvag/3D_graphic_militaryBase 3D_graphic_militaryBase
-```
-
-- Enter in 3D_graphic_militaryBase/gkit2light/build
-  
-- Open with Code Blocks the WORKSPACE file gKit2light
-
-- Run with the green arrow in the top of the nav bar (below "Debug")
+![image](image/3D_normal.png)
+![image](image/3D_groundview.png)
+![image](image/3D_topview.png)
 
 # Play
 
@@ -33,12 +22,29 @@ $ git clone https://github.com/axelvag/3D_graphic_militaryBase 3D_graphic_milita
     - enter 'h' in the terminal for "helpe
     - 'c': (des)activate GL_CULL_FACE
     - 'w': (des)activate wireframe
+![image](image/3D_modew.png)
     - 'a': (des)activate axis display
     - 'g': (des)activate grid display
+![image](image/3D_modeg.png)
     - 'z': (des)activate displaying the animation curve
 
-![codeblock](image/codeblocks.png)
+
+
+# Starting
+
+- Install CodeBlocks (information at the bottom of this page)
+
+- Clone this repo
+```bash
+$ git clone https://github.com/axelvag/3D_graphic_militaryBase 3D_graphic_militaryBase
+```
+
+- Enter in 3D_graphic_militaryBase/gkit2light/build
   
+- Open with Code Blocks the WORKSPACE file gKit2light
+
+- Run with the green arrow in the top of the nav bar (below "Debug")
+
 # GrAPiC 
 
 ## Starting
