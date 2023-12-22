@@ -30,7 +30,7 @@
 
 # Subject
 
-[**Download the Project PDF**](Subject.pdf)
+[**Download the Subject PDF**](Subject.pdf)
 
 # Starting
 
